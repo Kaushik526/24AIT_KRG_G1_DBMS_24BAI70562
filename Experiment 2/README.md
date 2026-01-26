@@ -69,5 +69,10 @@ After completing this experiment, students will be able to:
 
 ●	Sort query results using ORDER BY.
 
+<img width="883" height="417" alt="image" src="https://github.com/user-attachments/assets/2b664116-cf19-4644-a57e-76cd628114c7" />
+<img width="556" height="323" alt="image" src="https://github.com/user-attachments/assets/9fc42a4b-731e-4aba-bb21-83dd1f7bae5c" />
+
+
+
 
 

@@ -41,6 +41,7 @@ In this experiment, a basic PL/SQL block is implemented to initialize employee-r
 6. End the block using `END;` followed by `/` to execute it.  
 7. Verify the output displayed in the DBMS output panel.  
 
+```markdown
 ## 7. Program Code
 ```sql
 DECLARE
@@ -63,17 +64,17 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Total Salary         : ' || v_final_salary);
 END;
 /
+```
 
-
-8. Output:
+## 8. Output
 The program successfully displays employee details, bonus amount, and total salary using DBMS output.
+<img width="967" height="371" alt="Experiment3_output" src="https://github.com/user-attachments/assets/018a90e2-c99f-49ae-969b-a23f06693efd" />
 
 
-
-9.Result
+## 9. Result
 The program ran without errors. Variable declarations were made in the declaration block, computations were performed in the execution block, and the output was printed using DBMS_OUTPUT.PUT_LINE.
 
-10.Learning Outcomes
+## 10. Learning Outcomes
 1.	Understand the basic structure of a PL/SQL block including the DECLARE, BEGIN, and END sections.
 2.	Learn how to declare, initialize, and use variables of different data types in PL/SQL.
 3.	Perform arithmetic operations in PL/SQL to calculate values such as bonus and total salary.

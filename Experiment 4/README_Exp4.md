@@ -56,7 +56,7 @@ END;
 
 ![Output of Problem 1](Experiment4-Images/1.png)
 
-![Output of Problem 1](Experiment4/2.png)
+![Output of Problem 1](Experiment4-Images/2.png)
 
 
 
